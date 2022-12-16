@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color:navy;
+    background-color: gold;
+    text-align: center;
+    border: 2px solid navy;
+    border-radius: 20px;
+}
+h2 {
+    color:red;
+    text-align: center;
+    background-color: greenyellow;
+    border:3px solid gold;
+    border-radius: 20px;
+}
+header {
+  background-color:gold;
+  border-radius: 20px;
+}
+main p {
+border:black 20px solid;
+}
+p {
+color: rgb(48, 58, 206);
+background-color: yellowgreen;
+border: 2px solid forestgreen;
+border-radius: 20px;
+text-align: center;
+}
+nav a {
+    color: green;
+    border:2px solid navy;
+    padding: 5px;
+border-radius: 20px;
+background-color:gold;
+
+}
+
+.bdfshfgbjh {
+color:green;
+border: 2px solid navy;
+background-color: gold;
+border-radius: 30px;
+padding: 5px;
+}
+
+
